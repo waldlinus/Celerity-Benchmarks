@@ -1,6 +1,6 @@
 # Celerity-Benchmarks
 
-This repository is part of our bachelor’s thesis which we conducted at the University of Innsbruck. Here we provide our full code examples of all benchmark applications which we wrote for the thesis. Furthermore, in each application we provide the results in a .csv File.
+This repository is part of our bachelor’s thesis which we conducted at the University of Innsbruck. Here we provide our full code examples of all benchmark applications which we wrote for the thesis. Furthermore, in each application we provide the results in a .csv file.
 
 ## Benchmarks
 
