@@ -55,7 +55,15 @@ This version executes all functions on the devices, which leads to slightly diff
 
 ### 3D_Fluid_Simulation
 
-Provides a 3D simulation of the fluid motion. The code running on the server, which computes the motion for each time step is written for Linux. The client code is written for Windows.
+Provides a 3D simulation of the fluid motion. The code running on the server, which computes the motion for each time step is written for Linux. The client code is written for Windows. Note that the side length of the cube in the client code is defined as a global variable and is not passed as argument.
+
+#### Controls:
+
+- ‘s’ key: insert some particles in the middle of the scene
+- ‘x’ key: add force in x direction
+- ‘y’ key: add force in y direction
+- ‘z’ key: add force in z direction
+- left mouse button + movement: rotate the scene
 
 ## Contributors
 
